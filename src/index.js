@@ -17,11 +17,11 @@ import * as AboutPage from "./about-page.js";
                     break;
                 case 'menu':
                     content.innerHTML = '';
-                    MenuPage.appendPage();
+                    // MenuPage.appendPage();
                     break;
                 case 'about':
                     content.innerHTML = '';
-                    AboutPage.appendPage();
+                    // AboutPage.appendPage();
                     break;
                 case 'reservations':
                     alert('this is not a real website my boy');
